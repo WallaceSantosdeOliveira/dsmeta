@@ -1,6 +1,6 @@
-import logo from '../../assets/img/logo.svg'
+import logo from "../../assets/img/logo.svg";
 
-import './styles.css'
+import "./styles.css";
 
 function Header() {
   return (
@@ -10,7 +10,9 @@ function Header() {
         <h1>DSMeta</h1>
         <p>
           Desenvolvido por
-          <a href="https://www.linkedin.com/in/wallace-santos-de-oliveira-25b99a170/">@Wallace Santos</a>
+          <a href="https://www.linkedin.com/in/wallace-santos-de-oliveira-25b99a170/">
+            @Wallace Santos
+          </a>
         </p>
       </div>
     </header>
